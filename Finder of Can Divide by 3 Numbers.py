@@ -1,4 +1,4 @@
-#Finder of Can Divide by 3 Numbers 1 to 100 25.05.2020 written by Masware
+#Finder of Can Divide by 3 Numbers 1 to 100 25.05.2020 written by omeraydmr
 
 numbers = list()
 
